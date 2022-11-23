@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d78ed2dc-8375-4ccd-acf6-c361f18c111a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/src/main/java/com/authorizationServer/oauthserver/OauthAuthorizationServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/src/main/java/com/authorizationServer/oauthserver/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/src/main/java/com/authorizationServer/oauthserver/config/DefaultSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/src/main/java/com/authorizationServer/oauthserver/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/src/main/java/com/authorizationServer/oauthserver/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/src/main/java/com/authorizationServer/oauthserver/service/CustomAuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/src/main/java/com/authorizationServer/oauthserver/service/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-authorization-server/src/test/java/com/authorizationServer/oauthserver/OauthAuthorizationServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-resource-server/src/main/java/com/geanca/Oauthresourceserver/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oauth-resource-server/src/main/java/com/geanca/Oauthresourceserver/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/SpringSecurityClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/config/WebClientConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/entity/PasswordResetToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/entity/VerificationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/event/RegistrationEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/event/listener/RegistrationEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/model/PasswordModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/model/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/repository/PasswordResetTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/repository/VerificationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/java/com/security/springsecurityclient/service/UserServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-client/src/test/java/com/security/springsecurityclient/SpringSecurityClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/security/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-boot-demo/src/main/java/com/geanca/Springbootdemo/entity/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-boot-demo/src/main/java/com/geanca/Springbootdemo/entity/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-data-jpa-tutorial/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-data-jpa-tutorial/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HqYGQNiE5blUeRRZIDzjdipwdM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "35de2eca70abcb5224268eced4b107b1"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.SpringSecurityClientApplication">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="OauthAuthorizationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Oauth-authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.authorizationServer.oauthserver.OauthAuthorizationServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthResourceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Oauth-resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geanca.Oauthresourceserver.OauthResourceServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-security-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.security.springsecurityclient.SpringSecurityClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d78ed2dc-8375-4ccd-acf6-c361f18c111a" name="Changes" comment="" />
+      <created>1669013989230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669013989230</updated>
+      <workItem from="1669013993006" duration="324000" />
+      <workItem from="1669015030386" duration="10440000" />
+      <workItem from="1669089486455" duration="5853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Oauth-authorization-server/src/main/java/com/authorizationServer/oauthserver/OauthAuthorizationServerApplication.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

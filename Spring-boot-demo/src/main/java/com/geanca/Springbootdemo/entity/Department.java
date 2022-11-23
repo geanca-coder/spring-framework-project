@@ -23,6 +23,7 @@ public class Department {
 
     private Long departmentId;
     @NotBlank(message = "Deparment name cannot be empty")
+
     private String departmentName;
     private String departmentAddress;
     private String departmentCode;
